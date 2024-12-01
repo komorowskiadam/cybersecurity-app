@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "title": "Podstawy bezpieczeństwa w telefonie i internecie",
+    "description": "W tym kursie dowiesz się jakie zagrożenia mogą na Ciebie czekać w internecie i jak się przed nimi bronić.",
+    "modules": [
+      {
+        "type": "theory",
+        "title": "Bezpieczeństwo w sieci – co to znaczy?",
+        "description": "W tym kursie dowiesz się, dlaczego internet i telefony mogą być czasem niebezpieczne oraz jak unikać problemów.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Korzystając z internetu i telefonu, możesz natknąć się na oszustów. Mogą chcieć wyłudzić pieniądze, Twoje dane lub nakłonić Cię do pobrania wirusa. Dzięki temu kursowi nauczysz się, jak chronić siebie i swoje urządzenia."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Czym są dane osobowe? - Są to wszelkie możliwe informacje dotyczące Ciebie, jak PESEL czy imię i nazwisko, ale także miejsce pracy czy adres zamieszkania.",
+              "Co mogą zrobić oszuści gdy mają twoje dane? - Mając dostęp do naszych danych osobowych oszust może wziąć kredyt na nasze dane, wynająć mieszkanie czy nawet założyć firmę! Dlatego tak ważne jest, by nasze dane osobowe były chronione."
+            ]
+          },
+          {
+            "type": "text",
+            "value": "W następnych rozdziałach dowiemy się więcej o bezpiecznym korzystaniu z internetu i telefonu."
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Jak zabezpieczyć swój telefon?",
+        "description": "Nauczysz się, jak zabezpieczyć swój telefon przed dostępem niepowołanych osób.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Twój telefon to Twoje osobiste centrum dowodzenia – zawiera zdjęcia, wiadomości, hasła. W tym module nauczysz się, jak go chronić przed innymi."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Ustaw PIN, hasło lub odcisk palca do odblokowania telefonu.",
+              "Unikaj publicznego Wi-Fi, zwłaszcza bez hasła.",
+              "Aktualizuj system i aplikacje – to zapobiega atakom.",
+              "Nie klikaj w podejrzane linki w SMS-ach czy e-mailach."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika1.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "quizData": {
+          "questions": [
+            {
+              "question": "What is 2 + 2?",
+              "options": ["3", "4", "5"],
+              "correctAnswers": [1]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jak rozpoznawać oszustwa telefoniczne i internetowe?",
+    "description": "W tym kursie dowiesz się jakie są najczęstsze oszustwa telefoniczne i internetowe, jak je rozpoznać i co robić gdy podejrzewasz oszustwo.",
+    "modules": [
+      {
+        "type": "theory",
+        "title": "Najczęstsze oszustwa telefoniczne",
+        "description": "Poznasz najpopularniejsze metody oszustw telefonicznych i nauczysz się, jak na nie reagować.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Oszuści często podszywają się pod bank, policję lub urzędy. Próbują wyłudzić Twoje pieniądze albo dane osobowe. Naucz się, jak ich rozpoznać i co robić."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Gdy ktoś dzwoni i mówi, że jest z banku, NIGDY nie podawaj swojego PIN-u ani haseł.",
+              "Policja czy urzędy NIGDY nie proszą o przekazanie pieniędzy przez telefon.",
+              "Oszust może mówić, że Twoje konto zostało zablokowane – nie wierz w to od razu, tylko zadzwoń do banku, by to sprawdzić.",
+              "Jeśli coś wydaje się podejrzane, po prostu rozłącz się."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika2.jpg"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Fałszywe SMS-y i e-maile",
+        "description": "Nauczysz się rozpoznawać podejrzane wiadomości i unikać oszustw.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Oszuści często wysyłają fałszywe wiadomości SMS lub e-maile, które wyglądają jak prawdziwe. Kliknięcie w link może zainfekować telefon wirusem lub spowodować kradzież Twoich danych."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Sprawdź nadawcę – oszuści często używają dziwnych adresów (np. info@bank123x.pl zamiast bank.pl).",
+              "Uważaj na błędy ortograficzne i dziwne sformułowania w wiadomościach.",
+              "Nie klikaj w linki w SMS-ach o zaległych płatnościach, paczkach do odbioru czy konkursach.",
+              "Jeśli masz wątpliwości, skontaktuj się bezpośrednio z firmą, od której rzekomo pochodzi wiadomość."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika3.jpg"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Jak reagować na oszustwo?",
+        "description": "Nauczysz się, jakie kroki podjąć, gdy podejrzewasz próbę oszustwa.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Jeśli coś wydaje Ci się podejrzane, nie bój się przerwać rozmowy lub zignorować wiadomości. Lepiej być ostrożnym niż paść ofiarą oszusta."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Zakończ rozmowę, jeśli czujesz presję lub ktoś Cię pogania..",
+              "Nie otwieraj linków z podejrzanych wiadomości – usuń je.",
+              "Jeśli podasz swoje dane przez pomyłkę, natychmiast skontaktuj się z bankiem.",
+              "Zgłoś oszustwo policji lub znajomym – mogą również uważać na tego typu próby."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika4.jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Jak tworzyć i przechowywać bezpieczne hasła?",
+    "description": "W tym kursie dowiesz się jak stworzyć dobre hasło i jak je bezpiecznie przechowywać.",
+    "modules": [
+      {
+        "type": "theory",
+        "title": "Co to jest silne hasło?",
+        "description": "Nauczysz się, jakie cechy powinno mieć bezpieczne hasło.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Hasło to klucz do Twoich danych. Powinno być na tyle trudne, by nikt go nie odgadł, a jednocześnie łatwe do zapamiętania dla Ciebie."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Używaj co najmniej 8 znaków (im dłuższe, tym lepsze).",
+              "Łącz litery, cyfry i znaki specjalne (np. @, #, %).",
+              "Nie używaj swojego imienia, daty urodzenia ani prostych słów jak „hasło” czy „12345”.",
+              "Używaj innych haseł dla różnych kont."
+            ]
+          },
+          {
+            "type": "text",
+            "value": "Czy wiesz, że najpopularniejszym hasłem używanum w 2020 roku było „123456”? Nie pozwól, by Twoje hasło było takie proste!"
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika5.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Gdzie zapisywać hasła?",
+        "description": " Dowiesz się, jak bezpiecznie przechowywać swoje hasła, by ich nie zapomnieć i nie udostępnić przypadkiem oszustom.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Najlepiej zapamiętać hasła, ale jeśli ich masz wiele, możesz je zapisać – byle bezpiecznie!"
+          },
+          {
+            "type": "list",
+            "value": [
+              "Nigdy nie zapisuj haseł na kartkach leżących w widocznym miejscu.",
+              "Używaj menedżera haseł (to aplikacja, która bezpiecznie przechowuje hasła). Więcej dowiesz się w nastęnym dziale.",
+              "Zapisz je na papierze i przechowuj w zamkniętym miejscu, np. w sejfie bądź szufladzie zamykanej na kluczyk."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/grafika6.png"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Obsługa menadżera haseł",
+        "description": " Dowiesz się, jak pobrać menadżer haseł i go używać.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Menadżer haseł to aplikacja, która pozwala generować i w bezpieczny sposób przechowywać Twoje hasła. Poniżej przedstawiamy instrukcję jak pobrać przykładowy menadżer haseł od firmy Nord."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Otwórz aplikację Sklep Google bądź Apple Store.",
+              "Kliknij przycisk szukaj i wpisz 'Nord pass'.",
+              "Znajdź aplikację Nord Pass i kliknij przycisk pobierz. Poczekaj aż pobieranie dobiegnie końca.",
+              "Wyjdż ze Sklepu Play/Apple Store i znajdź aplikację Nord Pass na swoim telefonie.",
+              "Zarejestruj się w aplikacji, podając swój adres e-mail i wymyślone hasło.",
+              "Zaloguj się do aplikacji i dodaj swoje hasła używając przycisku 'Dodaj nowe hasło'."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/nordpass.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bezpieczne korzystanie z bankowości mobilnej",
+    "description": "Dowiesz się czym jest bankowość mobilna, jak z niej korzystać i jak zabezpieczyć swoje dane.",
+    "modules": [
+      {
+        "type": "theory",
+        "title": "Czym jest bankowość mobilna?",
+        "description": "Dowiesz się, jak działają aplikacje bankowe i dlaczego są wygodne, ale wymagają ostrożności.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Bankowość mobilna pozwala zarządzać pieniędzmi bez wychodzenia z domu – to wygodne, ale ważne jest, aby korzystać z niej bezpiecznie."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Bankowość mobilna to aplikacje na telefon, dzięki którym sprawdzisz stan konta, zapłacisz rachunki lub zrobisz przelew.",
+              "Możesz też korzystać z funkcji takich jak płatności BLIK czy ustawianie limitów transakcji.",
+              "Każdy bank ma swoją aplikację – zawsze pobieraj ją ze sklepu Google Play (Android) lub App Store (iPhone).",
+              "Pamiętaj, by nie korzystać z bankowości mobilnej na publicznym Wi-Fi."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/banki.jpg"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Jak korzystać z aplikacji bankowych bez ryzyka?",
+        "description": "Poznasz zasady, które pomogą Ci uniknąć utraty pieniędzy lub danych.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Pamiętaj, że aplikacja bankowa to klucz do Twoich pieniędzy. Trzymaj go tylko dla siebie i stosuj poniższe zasady."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Ustaw mocne hasło lub PIN do aplikacji – nie używaj prostych kodów jak „1234” czy „1111”.",
+              "Nie podawaj danych logowania nikomu, nawet osobie podającej się za pracownika banku.",
+              "Korzystaj tylko z zaufanych sieci Wi-Fi. W kawiarniach czy na dworcach używaj internetu mobilnego, a nie otwartego Wi-Fi.",
+              "Regularnie aktualizuj aplikację – to zwiększa bezpieczeństwo. Zrobisz to w Sklepie Play/App Store.",
+              "Ustaw limity na transakcje – dzięki temu nikt nie wyczyści całego konta, nawet jeśli zdobędzie dostęp."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Oszuści chcą Twoich pieniędzy – nie daj im się!",
+        "description": "Nauczysz się, jakie techniki stosują oszuści i jak im przeciwdziałać.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Oszuści próbują zdobyć dostęp do kont bankowych na różne sposoby. Znajomość ich metod to pierwszy krok do ochrony swoich pieniędzy."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Fałszywe SMSy - Nigdy nie podawaj kodu nikomu – zawsze weryfikuj, kto Cię o niego prosi.",
+              "Emaile z linkami do „banku” - Sprawdź adres nadawcy i otwieraj stronę banku tylko ręcznie, wpisując jej adres w przeglądarce.",
+              "Telefony od „banku” - Oszust może podawać się za pracownika banku i pytać o dane logowania. Bank NIGDY nie prosi o takie informacje!"
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/oszustwo_bank.png"
+          },
+          {
+            "type": "text",
+            "value": "Powyższy obrazek przedstawia oszukańczą stronę banku. Wygląda identycznie jak prawdziwa, jednak adres na górze strony jest inny. Zawsze sprawdzaj, czy adres strony zaczyna się od 'https://'."
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": " Co robić w razie problemów?",
+        "description": "Dowiesz się, jak reagować, jeśli oszuści przechwycą Twoje dane lub znikną pieniądze z konta.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Jeśli podejrzewasz, że Twoje dane lub pieniądze są zagrożone, zareaguj natychmiast. Szybka reakcja może uratować Twoje finanse."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Natychmiast zadzwoń na infolinię banku i zablokuj konto.",
+              "Zmień hasła w aplikacji i na stronie banku.",
+              "Zgłoś sprawę na policję, jeśli doszło do oszustwa.",
+              "Poinformuj rodzinę lub znajomych, aby również byli czujni."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ochrona prywatności w mediach społecznościowych",
+    "description": "Dowiesz się czym są media społecznościowe, jakie zagrożenia mogą na Ciebie czekać i jak chronić swoją prywatność.",
+    "modules": [
+      {
+        "type": "theory",
+        "title": "Co to są media społecznościowe?",
+        "description": "Poznasz popularne media społecznościowe i ich podstawowe funkcje.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Media społecznościowe to miejsca w internecie, gdzie możesz komunikować się z innymi, dzielić się zdjęciami czy informacjami. Uważaj jednak na to, co tam publikujesz."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Najpopularniejsze media: Facebook, Instagram, WhatsApp.",
+              "W mediach społecznościowych możesz publikować zdjęcia, wiadomości i wydarzenia, ale to, co udostępniasz, widzą też inni.",
+              "Ustawienia prywatności pomagają decydować, kto widzi Twoje posty."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/social_media.png"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": "Jak ustawić prywatność na Facebooku?",
+        "description": "Dowiesz się, jak ustawić prywatność w mediach społecznościowych.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Facebook pozwala kontrolować, kto widzi Twoje posty. Ustaw odpowiednie opcje, aby chronić swoje dane przed obcymi."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Wejdź w Ustawienia prywatności.",
+              "Wybierz opcję „Tylko znajomi” dla nowych postów.",
+              "Sprawdź listę znajomych i usuń osoby, których nie znasz.",
+              "Nie udostępniaj publicznie informacji o swoim adresie, numerze telefonu czy planach wyjazdów."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/facebook3.jpg"
+          }
+        ]
+      },
+      {
+        "type": "theory",
+        "title": " Jak rozpoznawać fałszywe konta?",
+        "description": "Nie daj się nabrać na fałszywego znajomego!  Nauczysz się rozpoznawać podejrzane profile i chronić się przed oszustami.",
+        "content": [
+          {
+            "type": "text",
+            "value": "Fałszywe konta mogą należeć do oszustów, którzy próbują zdobyć Twoje dane lub pieniądze."
+          },
+          {
+            "type": "list",
+            "value": [
+              "Konto bez zdjęcia lub z bardzo ogólnym opisem.",
+              "Profile, które wysyłają dziwne wiadomości, np. z linkami lub prośbami o pieniądze.",
+              "Osoby, których nigdy nie poznałeś, a dodają Cię do znajomych.",
+              "Zgłaszaj takie konta do administratora platformy."
+            ]
+          },
+          {
+            "type": "image",
+            "value": "assets/images/fake_konto.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+]
