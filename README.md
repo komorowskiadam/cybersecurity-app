@@ -1,1 +1,1 @@
-# cybersecurity-app
+# Cybersecurity app
